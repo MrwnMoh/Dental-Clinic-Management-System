@@ -26,7 +26,7 @@ Engineered using **3-Tier Architecture** and strict **Object-Oriented Programmin
 ### 🔐 Authentication & Role-Based Dashboards
 | 🔑 Secure Login Interface |
 | :---: |
-| <img src="https://github.com/MrwnMoh/Dental-Clinic-Management-System/blob/main/Pic/Login.png" width="600" alt="Login Screen" /> |
+| <img src="https://github.com/MrwnMoh/Dental-Clinic-Management-System/blob/main/Pic/Login.png" width="925" alt="Login Screen" /> |
 
 | 👑 Admin Dashboard View | 🩺 Doctor Dashboard View |
 | :---: | :---: |
