@@ -1,0 +1,9 @@
+E:\Marwan\My projects\C#\Dental Clinic Managment System\DCMS\Business Layer\bin\Debug\Business Layer.dll
+E:\Marwan\My projects\C#\Dental Clinic Managment System\DCMS\Business Layer\bin\Debug\Business Layer.pdb
+E:\Marwan\My projects\C#\Dental Clinic Managment System\DCMS\Business Layer\bin\Debug\DataLayer.dll
+E:\Marwan\My projects\C#\Dental Clinic Managment System\DCMS\Business Layer\bin\Debug\DataLayer.pdb
+E:\Marwan\My projects\C#\Dental Clinic Managment System\DCMS\Business Layer\obj\Debug\Business Layer.csproj.AssemblyReference.cache
+E:\Marwan\My projects\C#\Dental Clinic Managment System\DCMS\Business Layer\obj\Debug\Business Layer.csproj.CoreCompileInputs.cache
+E:\Marwan\My projects\C#\Dental Clinic Managment System\DCMS\Business Layer\obj\Debug\Business.38778CEF.Up2Date
+E:\Marwan\My projects\C#\Dental Clinic Managment System\DCMS\Business Layer\obj\Debug\Business Layer.dll
+E:\Marwan\My projects\C#\Dental Clinic Managment System\DCMS\Business Layer\obj\Debug\Business Layer.pdb

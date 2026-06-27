@@ -1,0 +1,196 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Marwan\\My projects\\C#\\Dental Clinic Managment System\\DCMS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AFABB435-DF4E-4BD1-88CD-3DB8E13C8B3D}|DCMS\\DCMS.csproj|e:\\marwan\\my projects\\c#\\dental clinic managment system\\dcms\\dcms\\appointments\\ucappointments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFABB435-DF4E-4BD1-88CD-3DB8E13C8B3D}|DCMS\\DCMS.csproj|solutionrelative:dcms\\appointments\\ucappointments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFABB435-DF4E-4BD1-88CD-3DB8E13C8B3D}|DCMS\\DCMS.csproj|E:\\Marwan\\My projects\\C#\\Dental Clinic Managment System\\DCMS\\dcms\\dhasboard\\ucdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFABB435-DF4E-4BD1-88CD-3DB8E13C8B3D}|DCMS\\DCMS.csproj|solutionrelative:dcms\\dhasboard\\ucdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFABB435-DF4E-4BD1-88CD-3DB8E13C8B3D}|DCMS\\DCMS.csproj|E:\\Marwan\\My projects\\C#\\Dental Clinic Managment System\\DCMS\\dcms\\people\\ucpeople.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFABB435-DF4E-4BD1-88CD-3DB8E13C8B3D}|DCMS\\DCMS.csproj|solutionrelative:dcms\\people\\ucpeople.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFABB435-DF4E-4BD1-88CD-3DB8E13C8B3D}|DCMS\\DCMS.csproj|E:\\Marwan\\My projects\\C#\\Dental Clinic Managment System\\DCMS\\dcms\\people\\ucpeople.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AFABB435-DF4E-4BD1-88CD-3DB8E13C8B3D}|DCMS\\DCMS.csproj|solutionrelative:dcms\\people\\ucpeople.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFABB435-DF4E-4BD1-88CD-3DB8E13C8B3D}|DCMS\\DCMS.csproj|E:\\Marwan\\My projects\\C#\\Dental Clinic Managment System\\DCMS\\dcms\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFABB435-DF4E-4BD1-88CD-3DB8E13C8B3D}|DCMS\\DCMS.csproj|solutionrelative:dcms\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFABB435-DF4E-4BD1-88CD-3DB8E13C8B3D}|DCMS\\DCMS.csproj|E:\\Marwan\\My projects\\C#\\Dental Clinic Managment System\\DCMS\\dcms\\dhasboard\\ucdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AFABB435-DF4E-4BD1-88CD-3DB8E13C8B3D}|DCMS\\DCMS.csproj|solutionrelative:dcms\\dhasboard\\ucdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFABB435-DF4E-4BD1-88CD-3DB8E13C8B3D}|DCMS\\DCMS.csproj|E:\\Marwan\\My projects\\C#\\Dental Clinic Managment System\\DCMS\\dcms\\appointments\\ucappointments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AFABB435-DF4E-4BD1-88CD-3DB8E13C8B3D}|DCMS\\DCMS.csproj|solutionrelative:dcms\\appointments\\ucappointments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFABB435-DF4E-4BD1-88CD-3DB8E13C8B3D}|DCMS\\DCMS.csproj|E:\\Marwan\\My projects\\C#\\Dental Clinic Managment System\\DCMS\\dcms\\people\\person\\ucpersonrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFABB435-DF4E-4BD1-88CD-3DB8E13C8B3D}|DCMS\\DCMS.csproj|solutionrelative:dcms\\people\\person\\ucpersonrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92442DE2-A0A0-4539-ACAD-C4FABAFC3160}|DataLayer\\DataLayer.csproj|E:\\Marwan\\My projects\\C#\\Dental Clinic Managment System\\DCMS\\datalayer\\clsusersdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92442DE2-A0A0-4539-ACAD-C4FABAFC3160}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\clsusersdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFABB435-DF4E-4BD1-88CD-3DB8E13C8B3D}|DCMS\\DCMS.csproj|E:\\Marwan\\My projects\\C#\\Dental Clinic Managment System\\DCMS\\dcms\\people\\person\\ucpersonrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AFABB435-DF4E-4BD1-88CD-3DB8E13C8B3D}|DCMS\\DCMS.csproj|solutionrelative:dcms\\people\\person\\ucpersonrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFABB435-DF4E-4BD1-88CD-3DB8E13C8B3D}|DCMS\\DCMS.csproj|E:\\Marwan\\My projects\\C#\\Dental Clinic Managment System\\DCMS\\dcms\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AFABB435-DF4E-4BD1-88CD-3DB8E13C8B3D}|DCMS\\DCMS.csproj|solutionrelative:dcms\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 225,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ucDashboard.cs",
+              "DocumentMoniker": "E:\\Marwan\\My projects\\C#\\Dental Clinic Managment System\\DCMS\\DCMS\\Dhasboard\\ucDashboard.cs",
+              "RelativeDocumentMoniker": "DCMS\\Dhasboard\\ucDashboard.cs",
+              "ToolTip": "E:\\Marwan\\My projects\\C#\\Dental Clinic Managment System\\DCMS\\DCMS\\Dhasboard\\ucDashboard.cs",
+              "RelativeToolTip": "DCMS\\Dhasboard\\ucDashboard.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAAGYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-27T07:33:41.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ucAppointments.cs",
+              "DocumentMoniker": "E:\\Marwan\\My projects\\C#\\Dental Clinic Managment System\\DCMS\\DCMS\\Appointments\\ucAppointments.cs",
+              "RelativeDocumentMoniker": "DCMS\\Appointments\\ucAppointments.cs",
+              "ToolTip": "E:\\Marwan\\My projects\\C#\\Dental Clinic Managment System\\DCMS\\DCMS\\Appointments\\ucAppointments.cs",
+              "RelativeToolTip": "DCMS\\Appointments\\ucAppointments.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-27T07:26:30.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ucAppointments.cs [Design]",
+              "DocumentMoniker": "E:\\Marwan\\My projects\\C#\\Dental Clinic Managment System\\DCMS\\DCMS\\Appointments\\ucAppointments.cs",
+              "RelativeDocumentMoniker": "DCMS\\Appointments\\ucAppointments.cs",
+              "ToolTip": "E:\\Marwan\\My projects\\C#\\Dental Clinic Managment System\\DCMS\\DCMS\\Appointments\\ucAppointments.cs [Design]",
+              "RelativeToolTip": "DCMS\\Appointments\\ucAppointments.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-27T07:26:24.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "clsUsersData.cs",
+              "DocumentMoniker": "E:\\Marwan\\My projects\\C#\\Dental Clinic Managment System\\DCMS\\DataLayer\\clsUsersData.cs",
+              "RelativeDocumentMoniker": "DataLayer\\clsUsersData.cs",
+              "ToolTip": "E:\\Marwan\\My projects\\C#\\Dental Clinic Managment System\\DCMS\\DataLayer\\clsUsersData.cs",
+              "RelativeToolTip": "DataLayer\\clsUsersData.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAUwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-26T19:46:50.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ucPersonRow.cs",
+              "DocumentMoniker": "E:\\Marwan\\My projects\\C#\\Dental Clinic Managment System\\DCMS\\DCMS\\People\\Person\\ucPersonRow.cs",
+              "RelativeDocumentMoniker": "DCMS\\People\\Person\\ucPersonRow.cs",
+              "ToolTip": "E:\\Marwan\\My projects\\C#\\Dental Clinic Managment System\\DCMS\\DCMS\\People\\Person\\ucPersonRow.cs",
+              "RelativeToolTip": "DCMS\\People\\Person\\ucPersonRow.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwFUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-26T19:45:49.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ucPersonRow.cs [Design]",
+              "DocumentMoniker": "E:\\Marwan\\My projects\\C#\\Dental Clinic Managment System\\DCMS\\DCMS\\People\\Person\\ucPersonRow.cs",
+              "RelativeDocumentMoniker": "DCMS\\People\\Person\\ucPersonRow.cs",
+              "ToolTip": "E:\\Marwan\\My projects\\C#\\Dental Clinic Managment System\\DCMS\\DCMS\\People\\Person\\ucPersonRow.cs [Design]",
+              "RelativeToolTip": "DCMS\\People\\Person\\ucPersonRow.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-26T19:45:46.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ucPeople.cs",
+              "DocumentMoniker": "E:\\Marwan\\My projects\\C#\\Dental Clinic Managment System\\DCMS\\DCMS\\People\\ucPeople.cs",
+              "RelativeDocumentMoniker": "DCMS\\People\\ucPeople.cs",
+              "ToolTip": "E:\\Marwan\\My projects\\C#\\Dental Clinic Managment System\\DCMS\\DCMS\\People\\ucPeople.cs",
+              "RelativeToolTip": "DCMS\\People\\ucPeople.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAewDkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-26T19:43:14.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ucPeople.cs [Design]",
+              "DocumentMoniker": "E:\\Marwan\\My projects\\C#\\Dental Clinic Managment System\\DCMS\\DCMS\\People\\ucPeople.cs",
+              "RelativeDocumentMoniker": "DCMS\\People\\ucPeople.cs",
+              "ToolTip": "E:\\Marwan\\My projects\\C#\\Dental Clinic Managment System\\DCMS\\DCMS\\People\\ucPeople.cs [Design]",
+              "RelativeToolTip": "DCMS\\People\\ucPeople.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-26T19:43:13.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ucDashboard.cs [Design]",
+              "DocumentMoniker": "E:\\Marwan\\My projects\\C#\\Dental Clinic Managment System\\DCMS\\DCMS\\Dhasboard\\ucDashboard.cs",
+              "RelativeDocumentMoniker": "DCMS\\Dhasboard\\ucDashboard.cs",
+              "ToolTip": "E:\\Marwan\\My projects\\C#\\Dental Clinic Managment System\\DCMS\\DCMS\\Dhasboard\\ucDashboard.cs [Design]",
+              "RelativeToolTip": "DCMS\\Dhasboard\\ucDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-26T18:26:18.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "frmMain.cs [Design]",
+              "DocumentMoniker": "E:\\Marwan\\My projects\\C#\\Dental Clinic Managment System\\DCMS\\DCMS\\frmMain.cs",
+              "RelativeDocumentMoniker": "DCMS\\frmMain.cs",
+              "ToolTip": "E:\\Marwan\\My projects\\C#\\Dental Clinic Managment System\\DCMS\\DCMS\\frmMain.cs [Design]",
+              "RelativeToolTip": "DCMS\\frmMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T15:02:23.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmMain.cs",
+              "DocumentMoniker": "E:\\Marwan\\My projects\\C#\\Dental Clinic Managment System\\DCMS\\DCMS\\frmMain.cs",
+              "RelativeDocumentMoniker": "DCMS\\frmMain.cs",
+              "ToolTip": "E:\\Marwan\\My projects\\C#\\Dental Clinic Managment System\\DCMS\\DCMS\\frmMain.cs",
+              "RelativeToolTip": "DCMS\\frmMain.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAwJMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T17:09:21.871Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
